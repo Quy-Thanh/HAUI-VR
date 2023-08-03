@@ -18,3 +18,6 @@ If you would like to contribute to this project, follow the steps below:
 
 ## Contributor
 - [@Quy-Thanh](https://github.com/Quy-Thanh)
+
+## Lisence
+This project is licensed under the MIT License.
